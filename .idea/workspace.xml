@@ -1,30 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="styling ServicesSection.js">
-      <change afterPath="$PROJECT_DIR$/src/components/Nav.js" afterDir="false" />
+    <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AboutSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutSection.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/FaqSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FaqSection.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/GlobalStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GlobalStyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ServicesSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ServicesSection.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +45,11 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="C:\Users\User\Desktop\react-capture\node_modules\eslint" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\NikTo\Desktop\react-site\node_modules\eslint" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,13 +61,6 @@
       <option name="presentableId" value="Default" />
       <updated>1605555270171</updated>
       <workItem from="1605555272224" duration="7616000" />
-      <workItem from="1605610565550" duration="2928000" />
-      <workItem from="1605613743277" duration="482000" />
-      <workItem from="1605614240595" duration="312000" />
-      <workItem from="1605615244299" duration="22000" />
-      <workItem from="1605615279392" duration="189000" />
-      <workItem from="1605615488136" duration="35000" />
-      <workItem from="1605615535873" duration="3746000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1605557313308</created>
@@ -91,34 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605557313308</updated>
     </task>
-    <task id="LOCAL-00002" summary="styling ServicesSection.js">
-      <created>1605618002373</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1605618002373</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <MESSAGE value="styling ServicesSection.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="styling ServicesSection.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
