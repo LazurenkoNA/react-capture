@@ -30,6 +30,7 @@ const GlobalStyle = createGlobalStyle`
 
   h2 {
     font-weight: lighter;
+    font-size: 4rem;
   }
 
   h3 {
@@ -38,6 +39,7 @@ const GlobalStyle = createGlobalStyle`
 
   h4 {
     font-weight: 600;
+    font-size: 2rem;
   }
   
   a{
@@ -55,7 +57,6 @@ const GlobalStyle = createGlobalStyle`
     font-size: 1.4rem;
     line-height: 150%;
   }
-
 `;
 
 export default GlobalStyle;
