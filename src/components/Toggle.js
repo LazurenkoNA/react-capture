@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import PropTypes from 'prop-types';
 
 const Toggle = ({ children, title }) => {
-  const [toggle, setToggle] = useState(true);
+  const [toggle, setToggle] = useState(false);
 
   return (
     // eslint-disable-next-line max-len
