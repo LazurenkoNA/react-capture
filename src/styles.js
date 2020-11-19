@@ -11,6 +11,7 @@ export const About = styled.div`
 export const Description = styled.div`
   flex: 1;
   padding-right: 5rem;
+  z-index: 2;
 
   h2 {
     font-weight: lighter;
