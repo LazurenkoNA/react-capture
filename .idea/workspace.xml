@@ -22,10 +22,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="Wave animation">
+    <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="OutWork animations">
+      <change afterPath="$PROJECT_DIR$/src/components/Toggle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/animations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/OurWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/OurWork.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/FaqSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FaqSection.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605784679610</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="OutWork animations">
+      <created>1605789918495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605789918495</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +162,7 @@
     <MESSAGE value="added animations sections" />
     <MESSAGE value="added animations AboutSection.js" />
     <MESSAGE value="Wave animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wave animation" />
+    <MESSAGE value="OutWork animations" />
+    <option name="LAST_COMMIT_MESSAGE" value="OutWork animations" />
   </component>
 </project>
