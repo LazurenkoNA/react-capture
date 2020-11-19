@@ -22,14 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="FaqSection.js animations">
-      <change afterPath="$PROJECT_DIR$/src/components/useScroll.js" afterDir="false" />
+    <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="scroll animations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/animations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FaqSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FaqSection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ServicesSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ServicesSection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Toggle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Toggle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605794509890</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="scroll animations">
+      <created>1605801439012</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605801439012</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +175,7 @@
     <MESSAGE value="Wave animation" />
     <MESSAGE value="OutWork animations" />
     <MESSAGE value="FaqSection.js animations" />
-    <option name="LAST_COMMIT_MESSAGE" value="FaqSection.js animations" />
+    <MESSAGE value="scroll animations" />
+    <option name="LAST_COMMIT_MESSAGE" value="scroll animations" />
   </component>
 </project>
