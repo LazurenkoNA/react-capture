@@ -22,11 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="added animations AboutSection.js">
-      <change afterPath="$PROJECT_DIR$/src/components/Wave.js" afterDir="false" />
+    <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="Wave animation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AboutSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AboutSection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/animations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/OurWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/OurWork.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605783725315</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Wave animation">
+      <created>1605784679610</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605784679610</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +152,7 @@
     <MESSAGE value="added MovieDetail.js 100%" />
     <MESSAGE value="added animations sections" />
     <MESSAGE value="added animations AboutSection.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="added animations AboutSection.js" />
+    <MESSAGE value="Wave animation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wave animation" />
   </component>
 </project>
