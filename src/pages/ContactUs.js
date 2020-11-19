@@ -2,6 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import styled from 'styled-components';
 import { pageAnimation, titleAnim } from '../animations';
+import ScrollTop from '../components/ScrollTop';
 
 const ContactUs = () => (
   <ContactStyle
@@ -37,6 +38,7 @@ const ContactUs = () => (
         </Social>
       </Hide>
     </div>
+    <ScrollTop />
   </ContactStyle>
 );
 

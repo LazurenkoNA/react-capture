@@ -4,6 +4,7 @@ import AboutSection from '../components/AboutSection';
 import FaqSection from '../components/FaqSection';
 import ServicesSection from '../components/ServicesSection';
 import { pageAnimation } from '../animations';
+import ScrollTop from '../components/ScrollTop';
 
 const AboutUs = () => (
   <motion.div
@@ -15,6 +16,7 @@ const AboutUs = () => (
     <AboutSection />
     <ServicesSection />
     <FaqSection />
+    <ScrollTop />
   </motion.div>
 );
 

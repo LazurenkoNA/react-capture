@@ -9,6 +9,7 @@ import {
   fade, lineAnim, pageAnimation, photoAnim, slider, sliderContainer,
 } from '../animations';
 import useScroll from '../components/useScroll';
+import ScrollTop from '../components/ScrollTop';
 
 const OurWork = () => {
   const [element, controls] = useScroll();
@@ -54,6 +55,7 @@ const OurWork = () => {
           </Hide>
         </Link>
       </Movie>
+      <ScrollTop />
     </Work>
   );
 };

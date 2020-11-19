@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/ScrollTop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/GlobalStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GlobalStyle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AboutUs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AboutUs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/ContactUs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ContactUs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/OurWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/OurWork.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605819595726</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added animation on Contact Us page">
+      <created>1605820645536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605820645536</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +114,7 @@
     <MESSAGE value="added React Router" />
     <MESSAGE value="layout OurWork.js" />
     <MESSAGE value="scroll animations on page Out Work" />
-    <option name="LAST_COMMIT_MESSAGE" value="scroll animations on page Out Work" />
+    <MESSAGE value="added animation on Contact Us page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added animation on Contact Us page" />
   </component>
 </project>
