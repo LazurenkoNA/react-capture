@@ -24,12 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="scroll animations fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/GlobalStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GlobalStyle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ServicesSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ServicesSection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/ContactUs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ContactUs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/OurWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/OurWork.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +84,7 @@
       <workItem from="1605615279392" duration="189000" />
       <workItem from="1605615488136" duration="35000" />
       <workItem from="1605615535873" duration="3746000" />
-      <workItem from="1605857794248" duration="6125000" />
+      <workItem from="1605857794248" duration="7057000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1605557313308</created>
@@ -168,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605858968821</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="mobile friendly">
+      <created>1605866761509</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605866761509</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +200,7 @@
     <MESSAGE value="scroll animations" />
     <MESSAGE value="test commit on correct github" />
     <MESSAGE value="test commit on correct github #2" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit on correct github #2" />
+    <MESSAGE value="mobile friendly" />
+    <option name="LAST_COMMIT_MESSAGE" value="mobile friendly" />
   </component>
 </project>
