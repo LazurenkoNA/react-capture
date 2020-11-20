@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ScrollTop.js" afterDir="false" />
+    <list default="true" id="02e088da-0641-4c88-b715-aba278094f26" name="Default Changelist" comment="scroll animations fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/animations.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/GlobalStyle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/GlobalStyle.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ScrollTop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ScrollTop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/AboutUs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AboutUs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/ContactUs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/ContactUs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/OurWork.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/OurWork.js" afterDir="false" />
@@ -43,11 +65,13 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="C:\Users\NikTo\Desktop\react-site\node_modules\eslint" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\User\Desktop\react-capture\node_modules\eslint" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 203.5784.22\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +83,14 @@
       <option name="presentableId" value="Default" />
       <updated>1605555270171</updated>
       <workItem from="1605555272224" duration="7616000" />
+      <workItem from="1605610565550" duration="2928000" />
+      <workItem from="1605613743277" duration="482000" />
+      <workItem from="1605614240595" duration="312000" />
+      <workItem from="1605615244299" duration="22000" />
+      <workItem from="1605615279392" duration="189000" />
+      <workItem from="1605615488136" duration="35000" />
+      <workItem from="1605615535873" duration="3746000" />
+      <workItem from="1605857794248" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1605557313308</created>
@@ -67,54 +99,90 @@
       <option name="project" value="LOCAL" />
       <updated>1605557313308</updated>
     </task>
-    <task id="LOCAL-00002" summary="styling Nav component">
-      <created>1605638800029</created>
+    <task id="LOCAL-00002" summary="styling ServicesSection.js">
+      <created>1605618002373</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1605638800029</updated>
+      <updated>1605618002373</updated>
     </task>
-    <task id="LOCAL-00003" summary="added React Router">
-      <created>1605641118744</created>
+    <task id="LOCAL-00003" summary="added MovieDetail.js 100%">
+      <created>1605775333089</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1605641118744</updated>
+      <updated>1605775333089</updated>
     </task>
-    <task id="LOCAL-00004" summary="layout OurWork.js">
-      <created>1605642390919</created>
+    <task id="LOCAL-00004" summary="added animations sections">
+      <created>1605782019608</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1605642390919</updated>
+      <updated>1605782019608</updated>
     </task>
-    <task id="LOCAL-00005" summary="scroll animations on page Out Work">
-      <created>1605819595726</created>
+    <task id="LOCAL-00005" summary="added animations AboutSection.js">
+      <created>1605783725315</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1605819595726</updated>
+      <updated>1605783725315</updated>
     </task>
-    <task id="LOCAL-00006" summary="added animation on Contact Us page">
-      <created>1605820645536</created>
+    <task id="LOCAL-00006" summary="Wave animation">
+      <created>1605784679610</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1605820645536</updated>
+      <updated>1605784679610</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="OutWork animations">
+      <created>1605789918495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605789918495</updated>
+    </task>
+    <task id="LOCAL-00008" summary="FaqSection.js animations">
+      <created>1605794509890</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605794509890</updated>
+    </task>
+    <task id="LOCAL-00009" summary="scroll animations">
+      <created>1605801439012</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605801439012</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <MESSAGE value="styling Nav component" />
-    <MESSAGE value="added React Router" />
-    <MESSAGE value="layout OurWork.js" />
-    <MESSAGE value="scroll animations on page Out Work" />
-    <MESSAGE value="added animation on Contact Us page" />
-    <option name="LAST_COMMIT_MESSAGE" value="added animation on Contact Us page" />
+    <MESSAGE value="styling ServicesSection.js" />
+    <MESSAGE value="added MovieDetail.js 100%" />
+    <MESSAGE value="added animations sections" />
+    <MESSAGE value="added animations AboutSection.js" />
+    <MESSAGE value="Wave animation" />
+    <MESSAGE value="OutWork animations" />
+    <MESSAGE value="FaqSection.js animations" />
+    <MESSAGE value="scroll animations" />
+    <option name="LAST_COMMIT_MESSAGE" value="scroll animations" />
   </component>
 </project>
