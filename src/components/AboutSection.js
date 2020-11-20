@@ -1,35 +1,48 @@
 import React from 'react';
+import { motion } from 'framer-motion';
 import home1 from '../img/home1.png';
+import {
+  About, Description, Hide, Image,
+} from '../styles';
+import { fade, photoAnim, titleAnim } from '../animations';
+import Wave from './Wave';
 
 const AboutSection = () => (
-  <div>
-    <div className="description">
-      <div className="title">
-        <div className="hide">
-          <h2>We work to make</h2>
-        </div>
-        <div className="hide">
-          <h2>
+  <About>
+    <Description>
+      <motion.div>
+        <Hide>
+          <motion.h2 variants={titleAnim}>
+            We work to make
+          </motion.h2>
+        </Hide>
+        <Hide>
+          <motion.h2 variants={titleAnim}>
             your
+            {' '}
             <span>dreams</span>
             {' '}
             come
-          </h2>
-        </div>
-        <div className="hide">
-          <h2>true.</h2>
-        </div>
-      </div>
-      <p>
+          </motion.h2>
+        </Hide>
+        <Hide>
+          <motion.h2 variants={titleAnim}>
+            true.
+          </motion.h2>
+        </Hide>
+      </motion.div>
+      <motion.p variants={fade}>
         Contact us for any photography or videography ideas that you have.
         We have professionals with amazing skills
-      </p>
-      <button>Contact Us</button>
-    </div>
-    <div className="image">
-      <img src={home1} alt="guy with a camera" />
-    </div>
-  </div>
+      </motion.p>
+      {/* eslint-disable-next-line react/button-has-type */}
+      <motion.button variants={fade}>Contact Us</motion.button>
+    </Description>
+    <Image>
+      <motion.img src={home1} variants={photoAnim} alt="guy with a camera" />
+    </Image>
+    <Wave />
+  </About>
 );
 
 export default AboutSection;
